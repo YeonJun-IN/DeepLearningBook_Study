@@ -1,4 +1,4 @@
-# DeepLearningBook
+# DeepLearning Book
 -------
 > Slide - Edited by [Big Leader](http://bigleader.net/) Study <br>
 > Reference : [Deep Learning Book](http://www.deeplearningbook.org/) <br>
